@@ -34,7 +34,7 @@ Java Installation Info
     Java Home: /Users/default/Library/Java/JavaVirtualMachines/openjdk-25.0.1/Contents/Home
     Java Vendor: Oracle Corporation
     Java Vendor URL: https://java.oracle.com/
-    Java Class Path: /Users/default/Library/Application Support/Code/User/workspaceStorage/a73728f5acbab11fa51bc284f0f4ead8/redhat.java/jdt_ws/basic-java_524b3122/bin
+    Java Class Path: /Library/Java/JavaVirtualMachines/microsoft-25.jdk/Contents/Home
     OS: Mac OS X
     OS Arch: aarch64 
 ```
