@@ -1,0 +1,17 @@
+package basic.io.lesson3;
+
+public class SystemProperties {
+    public static void main(String[] args) {
+        System.out.print("System Properties\n");
+        System.out.print("\tJava vendor: ");
+        System.out.print(System.getProperty("java.vendor"));
+        System.out.print("\n\tJava version: ");
+        System.out.print(System.getProperty("java.version"));
+        System.out.print("\n\tJava home: ");
+        System.out.print(System.getProperty("java.home"));
+        System.out.print("\n\tOS: ");
+        System.out.print(System.getProperty("os.name"));
+        System.out.print("\n\tOS Arch: ");
+        System.out.print(System.getProperty("os.arch"));
+    }
+}
