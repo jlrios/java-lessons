@@ -1,5 +1,5 @@
 # Basic Java - Lesson 2
-## 
+## Print text to the screen and use escape sequences
 
 ## Objective
 Create a Java program that displays welcome text on the screen.

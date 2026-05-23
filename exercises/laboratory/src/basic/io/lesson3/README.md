@@ -1,5 +1,5 @@
 # Basic Java - Lesson 3
-## Java System Information program
+## Display information about the Java installation on the screen
 
 ## Objective
 Create a Java program that displays information about your Java installation.  
