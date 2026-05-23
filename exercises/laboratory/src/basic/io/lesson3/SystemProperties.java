@@ -1,5 +1,11 @@
 package basic.io.lesson3;
 
+/**
+ * Display information about the Java installation on the screen.
+ *
+ * @author JLRD
+ * 23/05/26
+ */
 public class SystemProperties {
     public static void main(String[] args) {
         System.out.print("Java Installation Info\n");

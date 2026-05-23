@@ -1,4 +1,4 @@
-# Basic Java - Lesson 2
+# Basic Java - Lesson 3
 ## Java System Information program
 
 ## Objective
