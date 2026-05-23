@@ -2,7 +2,8 @@ package basic.io.lesson3;
 
 public class SystemProperties {
     public static void main(String[] args) {
-        System.out.print("System Properties\n");
+        System.out.print("Java Installation Info\n");
+        System.out.println("------------------------");
         System.out.print("\tJava vendor: ");
         System.out.print(System.getProperty("java.vendor"));
         System.out.print("\n\tJava version: ");
