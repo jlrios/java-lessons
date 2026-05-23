@@ -2,6 +2,12 @@ package basic.io.lesson4;
 
 import java.util.Scanner;
 
+/**
+ * Basic use of `Scanner` for data input, along with `String` and `int` variable declarations.
+ *
+ * @author JLRD
+ * 23/05/26
+ */
 public class BasicInput {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

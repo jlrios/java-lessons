@@ -1,8 +1,8 @@
-# Basic Java - Lesson 1
-## The classic ‘Hello, World!’ in Java
+# Basic Java - Lesson 4
+## Basic use of `Scanner` for data input, along with `String` and `int` variable declarations.
 
 ## Objective
-Learn how to create, compile, and run a basic Java program. 
+Learn how to use the `Scanner` class for basic data input as String text and integer value.
 This activity introduces the structure of a Java class and the use of the `main` method to produce output on the screen.
 
 ## Instructions
@@ -15,7 +15,7 @@ This activity introduces the structure of a Java class and the use of the `main`
        // Code goes here
    }
    ```
-4. Inside the main method, use `System.out.println` to display the message:     
+4. Inside the main method, use `System.out.println` to display the message:
     ```java
     System.out.println("Hello, World!");
     ````
@@ -31,10 +31,10 @@ This activity introduces the structure of a Java class and the use of the `main`
 Expected Outcome
 
 By the end of this activity, you should be able to:
-  * Understand the basic structure of a Java program.
-  * Create and define a public class.
-  * Use the main method as the entry point of a Java application.
-  * Display text on the screen using System.out.println.
+* Understand the basic structure of a Java program.
+* Create and define a public class.
+* Use the main method as the entry point of a Java application.
+* Display text on the screen using System.out.println.
 
 ## Example Output
 ```terminal_session

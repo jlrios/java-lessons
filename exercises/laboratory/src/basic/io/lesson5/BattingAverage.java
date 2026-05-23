@@ -6,7 +6,7 @@ public class BattingAverage {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int hits;
-        int turns; // Official turns
+        int atBats; // Official turns
         double battingAverage;
 
         System.out.println("\nBatting Average");
@@ -16,9 +16,9 @@ public class BattingAverage {
         hits = scanner.nextInt();
 
         System.out.print("At-bats: ");
-        turns = scanner.nextInt();
+        atBats = scanner.nextInt();
 
-        battingAverage = (double) hits/turns;
+        battingAverage = (double) hits/atBats;
 
         System.out.printf("Batting average: %.3f%n", battingAverage);
 

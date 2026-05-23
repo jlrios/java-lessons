@@ -1,7 +1,7 @@
 package basic.io.lesson1;
 
 /**
- * A simple ‘Hello, World!’ in Java.
+ * The classic ‘Hello, World!’ in Java.
  *
  * @author JLRD
  * 23/05/26
