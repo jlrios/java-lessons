@@ -1,4 +1,4 @@
-package basic.io.lesson3;
+package basic.io.exercise3;
 
 /**
  * Display information about the Java installation on the screen.

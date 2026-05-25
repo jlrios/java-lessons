@@ -1,4 +1,4 @@
-package basic.io.lesson5;
+package basic.io.exercise5;
 
 import java.util.Scanner;
 

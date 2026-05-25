@@ -51,7 +51,6 @@ Use of the `+` operator for string concatenation.
     ```bash
     java BasicInput
     ```
-
 ---
 
 ## Expected Outcome

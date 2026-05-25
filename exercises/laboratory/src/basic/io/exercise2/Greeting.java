@@ -1,4 +1,4 @@
-package basic.io.lesson2;
+package basic.io.exercise2;
 
 /**
  * Print text to the screen and use escape sequences.

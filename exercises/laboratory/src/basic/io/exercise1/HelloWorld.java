@@ -1,4 +1,4 @@
-package basic.io.lesson1;
+package basic.io.exercise1;
 
 /**
  * The classic ‘Hello, World!’ in Java.
