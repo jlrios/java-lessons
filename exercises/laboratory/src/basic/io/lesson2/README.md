@@ -5,7 +5,7 @@
 Create a Java program that displays welcome text on the screen.
 This activity will help you practice using `System.out.println` 
 to print output to the console, as well as using escape sequences for 
-line breaks and tabs and print double quotes.
+line breaks tabs and print double quotes.
 
 ## Instructions
 1. Create a new Java file named `Greeting.java`
@@ -15,10 +15,8 @@ line breaks and tabs and print double quotes.
 
 ## Expected Outcome
 By the end of this activity, you should be able to:
-* Print information to the screen using `System.out.println`
-* Retrieve and display system properties using `System.getProperty`
-* Understand how Java interacts with the underlying system environment
-
+* Display text on the screen using `System.out.println`
+* Use escape sequences to format text output
 ## Example Output
 ```terminal_session
 Welcome to Java

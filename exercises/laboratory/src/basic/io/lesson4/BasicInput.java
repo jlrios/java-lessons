@@ -3,7 +3,7 @@ package basic.io.lesson4;
 import java.util.Scanner;
 
 /**
- * Basic use of `Scanner` for data input, along with `String` and `int` variable declarations.
+ * Basic use of Scanner for user input, along with String and int variable declarations, and use of the + operator for string concatenation.
  *
  * @author JLRD
  * 23/05/26
