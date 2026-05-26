@@ -29,10 +29,10 @@ By the end of this activity, you should be able to:
 ```terminal_session
 Java Installation Info
 ------------------------
+    Java Vendor: Microsoft
     Java Version: 25.0.1
     Java Runtime Version: 25.0.1+8-27
     Java Home: /Users/default/Library/Java/JavaVirtualMachines/openjdk-25.0.1/Contents/Home
-    Java Vendor: Oracle Corporation
     Java Vendor URL: https://java.oracle.com/
     Java Class Path: /Library/Java/JavaVirtualMachines/microsoft-25.jdk/Contents/Home
     OS: Mac OS X
